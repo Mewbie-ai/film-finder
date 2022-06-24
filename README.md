@@ -1,2 +1,2 @@
 # film-finder
-Find random films
+Find random movies using imdb API
